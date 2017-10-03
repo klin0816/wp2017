@@ -1,4 +1,4 @@
-@import url(//fonts.googleapis.com/earlyaccess/cwtexkai.css);
+@import url(//fonts.googleapis.com/earlyaccess/cwtexyen.css);
 body{
 	
 }
@@ -29,11 +29,12 @@ body{
 	opacity: 0.6;
 }
 h2{
-	font-family: 'cwTeXKai', serif;
+	font-family: 'cwTeXYen', serif;
 }
 .me2{
 	position: absolute;
-	top: 12%;
+	top: 15%;
+  left: 5%;
 	font-size: 350px;
 }
 .container_skill{
